@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Onwodi
 
-Full Stack Software Engineer | Electrical and Electronics Engineer | Robotics Enthusiast
+Full‑stack dev | Founder of MenubarAI | Next.js, React, Firebase ,MongoDb
 
 🚀 I build scalable digital solutions for the hospitality, education, and health industries.  
 🔭 Solely built and founded [MenubarAI](https://menubarai.netlify.app) — a smart QR-based ordering system.
