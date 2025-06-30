@@ -36,8 +36,9 @@ Check out some of my live apps and projects:
 - [**Qrcon**](https://qrcon.netlify.app) – Business identity & QR code generator
 - [**Frulo App**](https://github.com/Onwodis/frulo_app) – Built in 2 days using React Native + Firebase
 - [**Crownpoint Portal**](https://crowncollege.netlify.app) – Admin + Student portal for College of Health
-- [**Life Blossom Hospital**] (https://lifeblossom.netlify.app)– Healthcare booking website built with Next.js
-- [**Youstack.co**] (https://youstack.netlify.app)– Educational platform (like udemy) built with MERN stack
+- [**Life Blossom Hospital**](https://lifeblossom.netlify.app)– Healthcare booking website built with Next.js
+- [**Youstack.co**](https://youstack.netlify.app)– Educational platform (like udemy) built with MERN stack
+- [**Emperor6**](https://emperor6.netlify.app)– a digital gaming platform i built during a React.js hackathon
 
 ---
 
