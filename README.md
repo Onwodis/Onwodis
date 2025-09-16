@@ -54,6 +54,12 @@ Full‑stack dev | Founder of MenubarAI | Next.js, React, Firebase ,MongoDb
 ![LLM](https://img.shields.io/badge/LLM-4B0082?style=for-the-badge)
 ![Vimeo API](https://img.shields.io/badge/Vimeo_API-1AB7EA?style=for-the-badge&logo=vimeo&logoColor=white)
 
+### Payments & Integrations
+![Paystack](https://img.shields.io/badge/Paystack-3BB75E?style=for-the-badge&logo=paystack&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Mailchimp](https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
 ### Design & Media
 ![Adobe_Suite](https://img.shields.io/badge/Adobe_Suite-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Camtasia](https://img.shields.io/badge/Camtasia-00B050?style=for-the-badge)
